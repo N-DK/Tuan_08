@@ -516,3 +516,7 @@ body {
 .main__search-right img{
     transform: rotate(90deg);
 }
+
+.carousel-control {
+    background-color: transparent;
+}
